@@ -1,6 +1,8 @@
 {
 "type": "FeatureCollection",
 "features": [
-{"type":"Feature", "geometry": {"type": "Point", "coordinates":[ 0 , 40  ] }}
+{"type":"Feature", "geometry": {"type": "Point", "coordinates":[ -120 , 40  ] }}
+,
+{"type":"Feature", "geometry": {"type": "Point", "coordinates":[ -121 , 40  ] }}
 ]
 }
