@@ -1,8 +1,8 @@
 {
 "type": "FeatureCollection",
 "features": [
-{"type":"Feature", "geometry": {"type": "Point", "coordinates":[ -120 , 40  ] }, "properties":{"x":"-120", "y":"40}}
+{"type":"Feature", "geometry": {"type": "Point", "coordinates":[ -120 , 40  ] }, "properties":{"x":-120, "y":40}}
 ,
-{"type":"Feature", "geometry": {"type": "Point", "coordinates":[ -121 , 40  ] }}
+{"type":"Feature", "geometry": {"type": "Point", "coordinates":[ -120,32 ] }, "properties":{"x":-120, "y":32}}
 ]
 }
