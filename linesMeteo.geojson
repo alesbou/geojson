@@ -2,4 +2,6 @@
 "type": "FeatureCollection",
 "features": [
 {"type":"Feature", "geometry": {"type":"LineString", "coordinates":[[32.25,114.75],[32.25,118.25]]}
-}]}
+},
+{"type":"Feature", "geometry": {"type":"LineString", "coordinates":[[41.5,114.75],[41.5,118.25]]}}
+]}
