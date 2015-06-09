@@ -126,6 +126,20 @@
 {"type":"Feature", "geometry": {"type": "Point", "coordinates":[ -116,42 ] }, "properties":{"long":-116, "lat":42}},
 {"type":"Feature", "geometry": {"type": "Point", "coordinates":[ -116,43 ] }, "properties":{"long":-116, "lat":43}},
 {"type":"Feature", "geometry": {"type": "Point", "coordinates":[ -116,44 ] }, "properties":{"long":-116, "lat":44}},
-{"type":"Feature", "geometry": {"type": "Point", "coordinates":[ -116,45 ] }, "properties":{"long":-116, "lat":45}}
+{"type":"Feature", "geometry": {"type": "Point", "coordinates":[ -116,45 ] }, "properties":{"long":-116, "lat":45}},
+{"type":"Feature", "geometry": {"type": "Point", "coordinates":[ -115,32 ] }, "properties":{"long":-115, "lat":32}},
+{"type":"Feature", "geometry": {"type": "Point", "coordinates":[ -115,33 ] }, "properties":{"long":-115, "lat":33}},
+{"type":"Feature", "geometry": {"type": "Point", "coordinates":[ -115,34 ] }, "properties":{"long":-115, "lat":34}},
+{"type":"Feature", "geometry": {"type": "Point", "coordinates":[ -115,35 ] }, "properties":{"long":-115, "lat":35}},
+{"type":"Feature", "geometry": {"type": "Point", "coordinates":[ -115,36 ] }, "properties":{"long":-115, "lat":36}},
+{"type":"Feature", "geometry": {"type": "Point", "coordinates":[ -115,37 ] }, "properties":{"long":-115, "lat":37}},
+{"type":"Feature", "geometry": {"type": "Point", "coordinates":[ -115,38 ] }, "properties":{"long":-115, "lat":38}},
+{"type":"Feature", "geometry": {"type": "Point", "coordinates":[ -115,39 ] }, "properties":{"long":-115, "lat":39}},
+{"type":"Feature", "geometry": {"type": "Point", "coordinates":[ -115,40 ] }, "properties":{"long":-115, "lat":40}},
+{"type":"Feature", "geometry": {"type": "Point", "coordinates":[ -115,41 ] }, "properties":{"long":-115, "lat":41}},
+{"type":"Feature", "geometry": {"type": "Point", "coordinates":[ -115,42 ] }, "properties":{"long":-115, "lat":42}},
+{"type":"Feature", "geometry": {"type": "Point", "coordinates":[ -115,43 ] }, "properties":{"long":-115, "lat":43}},
+{"type":"Feature", "geometry": {"type": "Point", "coordinates":[ -115,44 ] }, "properties":{"long":-115, "lat":44}},
+{"type":"Feature", "geometry": {"type": "Point", "coordinates":[ -115,45 ] }, "properties":{"long":-115, "lat":45}}
 ]
 }
